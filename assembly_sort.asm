@@ -1,4 +1,4 @@
-Superfluous Sort     (sup_sort.asm)
+Assembly Sort
 
 ; Author: Paul Adams
 ; Last Modified: 05 28 18
@@ -73,8 +73,6 @@ main PROC
 
 	exit	; exit to operating system
 main ENDP
-
-; (insert additional procedures here)
 
 ; Description: Prints an program introduction to the console
 ; Receives: Offsets of strings to be output
